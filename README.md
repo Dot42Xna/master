@@ -1,3 +1,13 @@
+
+XNA 4.0 Dot42 c# Framework
+============================
+learn Github and commit this demo project "NOT WORKING YET"
+
+
+
+
+
+all below is the dot42 comments
 api
 ============================
 
